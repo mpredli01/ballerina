@@ -1,4 +1,4 @@
-## Ballerina - an Open Source JVM Language for Network Distributed Applications
+## Ballerina - an Open Source JVM Language for Cloud-Era Application Programmers
 
 ### InfoQ Java Queue
 
